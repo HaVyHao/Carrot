@@ -7,7 +7,7 @@
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "webmypham/wsgi.py"
+            "dest": "webmypham/wsgi.handler"
         }
     ]
 }
